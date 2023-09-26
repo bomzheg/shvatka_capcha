@@ -1,6 +1,7 @@
 bot:
   token: ""
   log_chat: -1001234567890
+  shvatka_chat_id: -1
   superusers:
     - 666
   botapi:
